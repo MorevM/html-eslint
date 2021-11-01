@@ -19,6 +19,7 @@
 
 <p align="center">
   <img src="https://travis-ci.org/yeonjuan/html-eslint.svg?branch=main" alt="CI Badge" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
 
 ## Table of Contents

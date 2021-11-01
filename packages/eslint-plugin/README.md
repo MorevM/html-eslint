@@ -1,5 +1,7 @@
 # `@html-eslint/eslint-plugin`
 
+[![npm version](https://badge.fury.io/js/@html-eslint%2Feslint-plugin.svg)](https://badge.fury.io/js/@html-eslint%2Feslint-plugin)
+
 An ESLint plugin which provides lint rules for HTML.
 
 - [Getting Started](https://github.com/yeonjuan/html-eslint#Getting-Started)

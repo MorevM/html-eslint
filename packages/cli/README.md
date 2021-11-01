@@ -1,11 +1,9 @@
 # `@html-eslint/cli`
 
-> TODO: description
+[![npm version](https://badge.fury.io/js/@html-eslint%2Fcli.svg)](https://badge.fury.io/js/@html-eslint%2Fcli)
 
-## Usage
+## Installation
 
 ```
-const cli = require('@html-eslint/cli');
-
-// TODO: DEMONSTRATE API
+npm install -g @html-eslint/cli
 ```
